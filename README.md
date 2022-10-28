@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a study guide to help others and myself, with the contents of the prework. My motivation for making this project, was to test the basic skills I have learned throughout the prework, and to help me memorize what I have learned. This project was built to provide a space where students can refresh their memory on the basics of HTML, CSS, Git, and JS. Instead of using google, and having to go through multiple websites to collect this information, it is available in one place. In this project, I have learned how to structure HTML, incorporate CSS, add logic with JavaScript, and debug my own code.
+This project is a study guide to help others and myself, with the contents of the prework. My motivation for making this project, is to test the basic skills I have learned throughout the prework, and to help me memorize what I have learned. This project was built to provide a space where students can refresh their memory on the basics of HTML, CSS, Git, and JS. Instead of using google, and having to go through multiple websites to collect this information, it is available in one place. In this project, I have learned how to structure HTML, incorporate CSS, add logic with JavaScript, and debug my own code.
 
 ## Installation
 
